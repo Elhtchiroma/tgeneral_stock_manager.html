@@ -1,0 +1,1 @@
+tgeneral_stock_manager.html
